@@ -23,7 +23,7 @@ int main () {
 			printf("%d",div(n1, n2));
 			break;
 		case 5:
-			printf("ok i am going ok understand");
+			printf("Thanks");
 			break;
 		default:
 			printf("BadInput");
